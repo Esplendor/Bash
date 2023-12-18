@@ -1,4 +1,5 @@
 #!/bin/bash
+#Bypass - Egress Firewall
 #Pentester Side
 nc -vnlp 53&
 sleep 2
